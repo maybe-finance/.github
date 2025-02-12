@@ -1,4 +1,4 @@
-<img src="./logo.png" align="left" width="250"/>
+<img src="./maybe-logo.png" align="left" width="250"/>
 
 ### Maybe Finance
 
